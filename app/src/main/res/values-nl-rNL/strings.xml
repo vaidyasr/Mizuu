@@ -47,8 +47,8 @@
     </plurals>
 
     <!-- APP STRINGS -->
-    <string name="app_name_movies">Mizuu - films</string>
-    <string name="app_name_tvshows">Mizuu - TV-series</string>
+    <string name="app_name_movies">NMJManager - films</string>
+    <string name="app_name_tvshows">NMJManager - TV-series</string>
     <string name="settings_name">Instellingen</string>
     <string name="newuser_btStartSearch">Begin met bijwerken</string>
     <string name="detailsReleaseDate">Releasedatum</string>
@@ -75,7 +75,7 @@
     <string name="prefsUI">Gebruikersweergave</string>
     <string name="prefsUIGeneral">Algemeen</string>
     <string name="prefsAppFeedback">Commentaar over de app</string>
-    <string name="prefsAppFeedbackDescription">Laat de wereld weten wat je van Mizuu vindt, op Google Play.</string>
+    <string name="prefsAppFeedbackDescription">Laat de wereld weten wat je van NMJManager vindt, op Google Play.</string>
     <string name="prefsIdentificationAndSearch">Identificeren &amp; zoeken</string>
     <string name="shareWith">Delen met…</string>
     <string name="addedToFavs">Aan favorieten toegevoegd!</string>
@@ -137,8 +137,8 @@
     <string name="addCurrentFolderAsFileSource">Gebruik map als bestandsbron</string>
     <string name="enableRootAccess">Root-toegang aanvragen</string>
     <string name="enableRootAccessDescription">Bij opstarten root-toegang aanvragen. Kan nuttig zijn voor sommige apps van derden.</string>
-    <string name="widgetsMizuuMovies">Mizuu - Films</string>
-    <string name="widgetsMizuuShows">Mizuu - TV-series</string>
+    <string name="widgetsNMJManagerMovies">NMJManager - Films</string>
+    <string name="widgetsNMJManagerShows">NMJManager - TV-series</string>
     <string name="detailsTrailer">Trailer</string>
     <string name="prefsSubfolderSearchTitle">Submappen doorzoeken</string>
     <string name="prefsSubfolderSearch">Submappen opnemen in doorzoeken van videobestanden.</string>
@@ -276,7 +276,7 @@
     <string name="allReleaseYears">Alle release-jaren</string>
     <string name="selectReleaseYear">Kies releasejaar</string>
     <string name="movingDataFiles">Gegevensbestanden aan het verplaatsen…</string>
-    <string name="movingDataFilesDescription">Mizuu begint zo. Dit kan een paar minuten duren…</string>
+    <string name="movingDataFilesDescription">NMJManager begint zo. Dit kan een paar minuten duren…</string>
     <string name="social">Sociaal</string>
     <string name="syncTvShows">TV-series aan het synchroniseren met Trakt</string>
     <string name="syncMovies">Films aan het synchroniseren met Trakt</string>
@@ -317,8 +317,8 @@
     <string name="dataSourceOfShowRatings">Stel de gegevensbron voor waarderingen TV-series in. Wordt standaard TMDb als de gekozen bron niet beschikbaar is.</string>
     <string name="syncLibraries">Synchroniseer bibliotheken</string>
     <string name="installed_media_apps">Media apps</string>
-    <string name="searchMoviesFromMizuu">Zoek films in Mizuu</string>
-    <string name="searchTvShowsFromMizuu">Zoek TV-series in Mizuu</string>
+    <string name="searchMoviesFromNMJManager">Zoek films in NMJManager</string>
+    <string name="searchTvShowsFromNMJManager">Zoek TV-series in NMJManager</string>
     <string name="tvShowsWithUnwatchedEpisodes">Niet-bekeken TV-series</string>
     <string name="loading_movie_parts">Filmdelen aan het laden…</string>
     <string name="few_moments">Dit kan eventjes duren…</string>

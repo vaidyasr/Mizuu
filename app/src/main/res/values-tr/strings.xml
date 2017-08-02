@@ -29,7 +29,7 @@
     <string name="prefsUI">Kullanıcı arabirimi</string>
     <string name="prefsUIGeneral">Genel</string>
     <string name="prefsAppFeedback">Uygulama geri bildirimi</string>
-    <string name="prefsAppFeedbackDescription">Google Play\'de Mizuu hakkında düşündüklerinizi bildirin.</string>
+    <string name="prefsAppFeedbackDescription">Google Play\'de MNMJManager hakkında düşündüklerinizi bildirin.</string>
     <string name="prefsIdentificationAndSearch">Tanimlama &amp; arama</string>
     <string name="shareWith">Paylaş&#8230;</string>
     <string name="addedToFavs">Favorilere ekle!</string>
@@ -86,8 +86,8 @@
     <string name="addCurrentFolderAsFileSource">Klasörü dosya kaynağı olarak kullan</string>
     <string name="enableRootAccess">Root erişimi iste</string>
     <string name="enableRootAccessDescription">Başlangıçta Root erişimi iste. 3. parti yazılımlar için gerekli olabilir.</string>
-    <string name="widgetsMizuuMovies">Mizuu - Filmler</string>
-    <string name="widgetsMizuuShows">Mizuu - TV Şovları</string>
+    <string name="widgetsNMJManagerMovies">NMJManager - Filmler</string>
+    <string name="widgetsNMJManagerShows">NMJManager - TV Şovları</string>
     <string name="detailsTrailer">Fragman</string>
     <string name="prefsSubfolderSearchTitle">Alt klasörleri de ara</string>
     <string name="prefsSubfolderSearch">Video aramalarına alt klasörleri de ekle.</string>

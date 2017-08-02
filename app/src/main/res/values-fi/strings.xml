@@ -49,9 +49,9 @@
     <item quantity="one">tiedosto</item>
     <item quantity="other">tiedostoa</item>
   </plurals>
-  <string name="app_name">Mizuu</string>
-  <string name="app_name_movies">Mizuu - Elokuvat</string>
-  <string name="app_name_tvshows">Mizuu - TV-ohjelmat</string>
+  <string name="app_name">NMJManager</string>
+  <string name="app_name_movies">NMJManager - Elokuvat</string>
+  <string name="app_name_tvshows">NMJManager - TV-ohjelmat</string>
   <string name="settings_name">Asetukset</string>
   <string name="newuser_btStartSearch">Aloita päivitys</string>
   <string name="detailsReleaseDate">Julkaisupäivä</string>
@@ -79,7 +79,7 @@
   <string name="prefsUI">Käyttöliittymä</string>
   <string name="prefsUIGeneral">Yleinen</string>
   <string name="prefsAppFeedback">Anna palautetta</string>
-  <string name="prefsAppFeedbackDescription">Kerro maailmalle, mitä mieltä olet Mizuusta Googlen Play-kaupassa.</string>
+  <string name="prefsAppFeedbackDescription">Kerro maailmalle, mitä mieltä olet NMJManagersta Googlen Play-kaupassa.</string>
   <string name="prefsIdentificationAndSearch">Tunnistaminen ja haku</string>
   <string name="shareWith">Jaa&#8230;</string>
   <string name="addedToFavs">Lisätty suosikkeihin!</string>
@@ -151,8 +151,8 @@
   <string name="addCurrentFolderAsFileSource">Käytä kansiota tiedostolähteenä</string>
   <string name="enableRootAccess">Vaadi pääkäyttäjäoikeudet</string>
   <string name="enableRootAccessDescription">Vaatii pääkäyttäjäoikeuksia käynnistyksessä, voi olla hyödyllinen joidenkin 3. osapuolen sovelluksien kanssa.</string>
-  <string name="widgetsMizuuMovies">Mizuu - Elokuvat</string>
-  <string name="widgetsMizuuShows">Mizuu - TV-ohjelmat</string>
+  <string name="widgetsNMJManagerMovies">NMJManager - Elokuvat</string>
+  <string name="widgetsNMJManagerShows">NMJManager - TV-ohjelmat</string>
   <string name="detailsTrailer">Traileri</string>
   <string name="prefsSubfolderSearchTitle">Alakansiohaku</string>
   <string name="prefsSubfolderSearch">Sisällyttää alakansiot hauissa.</string>
@@ -309,7 +309,7 @@
   <string name="allReleaseYears">Kaikki julkaisuvuodet</string>
   <string name="selectReleaseYear">Valitse julkaisuvuosi</string>
   <string name="movingDataFiles">Tiedostojen siirtäminen</string>
-  <string name="movingDataFilesDescription">Mizuu käynnistyy pian. Tämä saattaa kestää muutaman minuutin&#8230;</string>
+  <string name="movingDataFilesDescription">NMJManager käynnistyy pian. Tämä saattaa kestää muutaman minuutin&#8230;</string>
   <string name="social">Sosiaalinen</string>
   <string name="syncTvShows">Synkronoi TV-ohjelmat traktin kanssa</string>
   <string name="syncMovies">Synkronoi elokuvat traktin kanssa</string>
@@ -354,8 +354,8 @@
   <string name="dataSourceOfShowRatings">Määritä TV-ohjelman arvosanalähde. Oletuksena TMDb, jos valittua lähdettä ei ole käytettävissä.</string>
   <string name="syncLibraries">Synkronoi kirjastot</string>
   <string name="installed_media_apps">Mediasovellukset</string>
-  <string name="searchMoviesFromMizuu">Etsi elokuvia Mizuusta</string>
-  <string name="searchTvShowsFromMizuu">Etsi TV-ohjelmia Mizuusta</string>
+  <string name="searchMoviesFromNMJManager">Etsi elokuvia NMJManagersta</string>
+  <string name="searchTvShowsFromNMJManager">Etsi TV-ohjelmia NMJManagersta</string>
   <string name="tvShowsWithUnwatchedEpisodes">Katsomattomat ohjelmat</string>
   <string name="loading_movie_parts">Ladataan elokuvan osat</string>
   <string name="few_moments">Tämä saattaa kestää hetken&#8230;</string>

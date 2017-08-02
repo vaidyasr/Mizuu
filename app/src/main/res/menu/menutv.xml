@@ -28,9 +28,6 @@
             <item
                 android:id="@+id/menuSortRating"
                 android:title="@string/sortRating"/>
-            <item
-                android:id="@+id/menuSortWeightedRating"
-                android:title="@string/sortWeightedRating"/>
         </menu>
     </item>
     <item
@@ -40,33 +37,33 @@
         android:title="@string/filters">
         <menu>
             <item
-                android:id="@+id/certifications"
+                android:id="@+id/index"
                 android:icon="@drawable/ic_flag_white_24dp"
-                android:title="@string/detailsCertification"/>
-            <item
-                android:id="@+id/fileSources"
-                android:icon="@drawable/ic_insert_drive_file_white_24dp"
-                android:title="@string/fileSources"/>
-            <item
-                android:id="@+id/folders"
-                android:icon="@drawable/ic_folder_open_white_24dp"
-                android:title="@string/folders"/>
+                android:title="@string/index"/>
             <item
                 android:id="@+id/genres"
                 android:icon="@drawable/ic_label_white_24dp"
                 android:title="@string/choiceGenres"/>
             <item
+                android:id="@+id/certifications"
+                android:icon="@drawable/ic_flag_white_24dp"
+                android:title="@string/detailsCertification"/>
+            <item
                 android:id="@+id/release_year"
                 android:icon="@drawable/ic_today_white_24dp"
                 android:title="@string/release_year"/>
             <item
-                android:id="@+id/available_files"
+                android:id="@+id/user_rating"
                 android:icon="@drawable/ic_done_white_24dp"
-                android:title="@string/choiceAvailableFiles"/>
+                android:title="@string/user_rating"/>
             <item
-                android:id="@+id/offline_files"
+                android:id="@+id/video_resolution"
                 android:icon="@drawable/ic_cloud_download_white_24dp"
-                android:title="@string/choiceOffline"/>
+                android:title="@string/video_resolution"/>
+            <item
+                android:id="@+id/others"
+                android:icon="@drawable/ic_cloud_download_white_24dp"
+                android:title="@string/others"/>
             <item
                 android:id="@+id/clear_filters"
                 android:icon="@drawable/ic_close_white_24dp"

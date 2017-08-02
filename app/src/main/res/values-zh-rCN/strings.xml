@@ -51,9 +51,9 @@
     </plurals>
 
     <!-- APP STRINGS -->
-    <string name="app_name">Mizuu</string>
-    <string name="app_name_movies">Mizuu - 电影</string>
-    <string name="app_name_tvshows">Mizuu - 电视剧</string>
+    <string name="app_name">NMJManager</string>
+    <string name="app_name_movies">NMJManager - 电影</string>
+    <string name="app_name_tvshows">NMJManager - 电视剧</string>
     <string name="settings_name">设置</string>
     <string name="newuser_btStartSearch">开始更新</string>
     <string name="detailsReleaseDate">发布时间</string>
@@ -81,7 +81,7 @@
     <string name="prefsUI">用户界面</string>
     <string name="prefsUIGeneral">常规</string>
     <string name="prefsAppFeedback">程序反馈</string>
-    <string name="prefsAppFeedbackDescription">在Google Play上告诉你对Mizuu的想法</string>
+    <string name="prefsAppFeedbackDescription">在Google Play上告诉你对NMJManager的想法</string>
     <string name="prefsIdentificationAndSearch">识别和查找</string>
     <string name="shareWith">分享</string>
     <string name="addedToFavs">添加到收藏夹</string>
@@ -163,8 +163,8 @@
     <string name="addCurrentFolderAsFileSource">添加文件夹中的文件源</string>
     <string name="enableRootAccess">请求ROOT访问权限</string>
     <string name="enableRootAccessDescription">在启动时请求ROOT权限，对一些第三方应用程序非常有用</string>
-    <string name="widgetsMizuuMovies">Mizuu - 电影</string>
-    <string name="widgetsMizuuShows">Mizuu - 电视剧</string>
+    <string name="widgetsMNMJManagerMovies">NMJManager - 电影</string>
+    <string name="widgetsNMJManagerShows">NMJManager - 电视剧</string>
     <string name="detailsTrailer">预告片</string>
     <string name="prefsSubfolderSearchTitle">启用子文件夹搜索</string>
     <string name="prefsSubfolderSearch">包括子文件夹中的视频文件搜索</string>
@@ -325,7 +325,7 @@
     <string name="allReleaseYears">所有发布年份</string>
     <string name="selectReleaseYear">选择发布年份</string>
     <string name="movingDataFiles">移动数据文件</string>
-    <string name="movingDataFilesDescription">Mizuu即将开始移动，这可能需要几分钟时间</string>
+    <string name="movingDataFilesDescription">NMJManager即将开始移动，这可能需要几分钟时间</string>
     <string name="social">账户同步</string>
     <string name="syncTvShows">正在同步电视剧</string>
     <string name="syncMovies">正在同步电影</string>
@@ -372,8 +372,8 @@
     <string name="dataSourceOfShowRatings">设置电视剧评级的数据源，如果所选源不可用，默认为TVDb</string>
     <string name="syncLibraries">同步资源库</string>
     <string name="installed_media_apps">媒体应用</string>
-    <string name="searchMoviesFromMizuu">从Mizuu查找电影</string>
-    <string name="searchTvShowsFromMizuu">从Mizuu查找电视剧</string>
+    <string name="searchMoviesFromNMJManager">从NMJManager查找电影</string>
+    <string name="searchTvShowsFromNMJManager">从NMJManager查找电视剧</string>
     <string name="tvShowsWithUnwatchedEpisodes">未观看的电视剧</string>
     <string name="loading_movie_parts">加载部分影片</string>
     <string name="few_moments">这可能需要一些时间</string>

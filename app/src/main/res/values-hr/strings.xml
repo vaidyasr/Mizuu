@@ -53,9 +53,9 @@
 	
 	
 	<!-- APP STRINGS -->
-	<string name="app_name">"Mizuu"</string>
-	<string name="app_name_movies">"Mizuu - filmovi"</string>
-	<string name="app_name_tvshows">"Mizuu - serije"</string>
+	<string name="app_name">"NMJManager"</string>
+	<string name="app_name_movies">"NMJManager - filmovi"</string>
+	<string name="app_name_tvshows">"NMJManager - serije"</string>
 	<string name="settings_name">"Postavke"</string>
 	<string name="newuser_btStartSearch">"Započni ažuriranje"</string>
 	<string name="detailsReleaseDate">"Datum objave"</string>
@@ -83,7 +83,7 @@
 	<string name="prefsUI">"Korisničko sučelje"</string>
 	<string name="prefsUIGeneral">"Općenito"</string>
 	<string name="prefsAppFeedback">"Povratne informacije"</string>
-	<string name="prefsAppFeedbackDescription">"Recite svijetu što mislite o Mizuu na Google Play."</string>
+	<string name="prefsAppFeedbackDescription">"Recite svijetu što mislite o NMJManager na Google Play."</string>
 	<string name="prefsIdentificationAndSearch">"Prepoznavanje i pretraživanje"</string>
 	<string name="shareWith">"Dijeli sa ..."</string>
 	<string name="addedToFavs">"Dodano u favorite!"</string>
@@ -145,8 +145,8 @@
 	<string name="addCurrentFolderAsFileSource">"Upotrijebi mapu kao izvor datoteka"</string>
 	<string name="enableRootAccess">"Zatraži root pristup"</string>
 	<string name="enableRootAccessDescription">"Zatraži root pristup prilikom pokretanja, može biti korisno za neke aplikacije treće strane."</string>
-	<string name="widgetsMizuuMovies">"Mizuu - Filmovi"</string>
-	<string name="widgetsMizuuShows">"Mizuu - Serije"</string>
+	<string name="widgetsNMJManagerMovies">"NMJManager - Filmovi"</string>
+	<string name="widgetsNMJManagerShows">"NMJManager - Serije"</string>
 	<string name="detailsTrailer">"Trailer"</string>
 	<string name="prefsSubfolderSearchTitle">"Omogući pretraživanje podmapa"</string>
 	<string name="prefsSubfolderSearch">"Uključi podmape u pretraživanja video datoteka."</string>
@@ -293,7 +293,7 @@
 	<string name="allReleaseYears">"Sve godine izdavanja"</string>
 	<string name="selectReleaseYear">"Odaberite godinu izdavanja"</string>
 	<string name="movingDataFiles">"Premještanje podatkovnih datoteka"</string>
-	<string name="movingDataFilesDescription">"Mizuu će se uskoro pokrenuti. ovo bi moglo potrajati nekoliko minuta ..."</string>
+	<string name="movingDataFilesDescription">"NMJManager će se uskoro pokrenuti. ovo bi moglo potrajati nekoliko minuta ..."</string>
 	<string name="social">"Socijalne mreže"</string>
 	<string name="syncTvShows">"Usklađivanje serija s Trakt"</string>
 	<string name="syncMovies">"Usklađivanje filmova s Trakt"</string>
@@ -333,8 +333,8 @@
 	<string name="dataSourceOfShowRatings">"Postavite izvor podataka za ocjenjivanje serija. Postavlja se na TheTVDb ako je odabrani izvor nedostupan."</string>
 	<string name="syncLibraries">"Usklađivanje zbirki"</string>
 	<string name="installed_media_apps">"Multimedijske aplikacije"</string>
-	<string name="searchMoviesFromMizuu">"Pretraživanje filmova iz Mizuu"</string>
-	<string name="searchTvShowsFromMizuu">"Pretraživanje serija iz Mizuu"</string>
+	<string name="searchMoviesFromNMJManager">"Pretraživanje filmova iz NMJManager"</string>
+	<string name="searchTvShowsFromNMJManager">"Pretraživanje serija iz NMJManager"</string>
 	<string name="tvShowsWithUnwatchedEpisodes">"Nepregledane serije"</string>
 	<string name="loading_movie_parts">"Učitavanje dijelova filma"</string>
 	<string name="few_moments">"Može potrajati nekoliko trenutaka ..."</string>

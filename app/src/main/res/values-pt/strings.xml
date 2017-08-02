@@ -29,7 +29,7 @@
     <string name="prefsUI">Interface</string>
     <string name="prefsUIGeneral">Geral</string>
     <string name="prefsAppFeedback">Feedback da Aplicação</string>
-    <string name="prefsAppFeedbackDescription">Diga ao mundo através do Google Play o que pensa do Mizuu.</string>
+    <string name="prefsAppFeedbackDescription">Diga ao mundo através do Google Play o que pensa do NMJManager.</string>
     <string name="prefsIdentificationAndSearch">Identificação &amp; pesquisa</string>
     <string name="shareWith">Partilhar usando&#8230;</string>
     <string name="addedToFavs">Adicionado aos favoritos!</string>
@@ -86,8 +86,8 @@
     <string name="addCurrentFolderAsFileSource">Usar pasta como fonte de ficheiros</string>
     <string name="enableRootAccess">Pedir acesso root</string>
     <string name="enableRootAccessDescription">Pedir acesso root no arranque, pode ser útil para algumas aplicações externas.</string>
-    <string name="widgetsMizuuMovies">Mizuu - Filmes</string>
-    <string name="widgetsMizuuShows">Mizuu - Séries</string>
+    <string name="widgetsNMJManagerMovies">NMJManager - Filmes</string>
+    <string name="widgetsNMJManagerShows">NMJManager - Séries</string>
     <string name="detailsTrailer">Trailer</string>
     <string name="prefsSubfolderSearchTitle">Ativar pesquisa em sub-pastas</string>
     <string name="prefsSubfolderSearch">Incluir sub-pastas nas pesquisa de ficheiros de vídeo.</string>
@@ -219,7 +219,7 @@
     <string name="allCertifications">Todas as classificações</string>
     <string name="selectCertification">Selecionar classificação</string>
     <string name="movingDataFiles">A mover ficheiros de dados</string>
-    <string name="movingDataFilesDescription">Mizuu irá iniciar brevemente. Pode demorar alguns minutos&#8230;</string>
+    <string name="movingDataFilesDescription">NMJManager irá iniciar brevemente. Pode demorar alguns minutos&#8230;</string>
     <string name="social">Social</string>
     <string name="syncTvShows">Sincronizar séries com o Trakt</string>
     <string name="syncMovies">Sincronizar filmes com o Trakt</string>

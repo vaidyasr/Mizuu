@@ -7,7 +7,7 @@
     </plurals>
     <plurals name="showsInLibrary">
         <item quantity="one">show</item>
-        <item quantity="other">shows</item>
+        <item quantity="other">shows</item>f
     </plurals>
     <plurals name="episodes">
         <item quantity="one">episode</item>
@@ -51,9 +51,9 @@
     </plurals>
 
     <!-- APP STRINGS -->
-    <string name="app_name">Mizuu</string>
-    <string name="app_name_movies">Mizuu - movies</string>
-    <string name="app_name_tvshows">Mizuu - TV shows</string>
+    <string name="app_name">NMJManager</string>
+    <string name="app_name_movies">NMJManager - movies</string>
+    <string name="app_name_tvshows">NMJManager - TV shows</string>
     <string name="settings_name">Settings</string>
     <string name="newuser_btStartSearch">Start update</string>
     <string name="detailsReleaseDate">Release date</string>
@@ -81,7 +81,7 @@
     <string name="prefsUI">User Interface</string>
     <string name="prefsUIGeneral">General</string>
     <string name="prefsAppFeedback">Application feedback</string>
-    <string name="prefsAppFeedbackDescription">Tell the world what you think of Mizuu on Google Play.</string>
+    <string name="prefsAppFeedbackDescription">Tell the world what you think of NMJManager on Google Play.</string>
     <string name="prefsIdentificationAndSearch">Identification &amp; search</string>
     <string name="shareWith">Share with…</string>
     <string name="addedToFavs">Added to favorites!</string>
@@ -153,8 +153,8 @@
     <string name="addCurrentFolderAsFileSource">Add folder as file source</string>
     <string name="enableRootAccess">Request root access</string>
     <string name="enableRootAccessDescription">Request root access at launch, can be useful for some third party applications.</string>
-    <string name="widgetsMizuuMovies">Mizuu - Movies</string>
-    <string name="widgetsMizuuShows">Mizuu - TV shows</string>
+    <string name="widgetsNMJManagerMovies">NMJManager - Movies</string>
+    <string name="widgetsNMJManagerShows">NMJManager - TV shows</string>
     <string name="detailsTrailer">Trailer</string>
     <string name="prefsSubfolderSearchTitle">Enable sub-folder search</string>
     <string name="prefsSubfolderSearch">Include sub-folders in video file searches.</string>
@@ -311,7 +311,7 @@
     <string name="allReleaseYears">All release years</string>
     <string name="selectReleaseYear">Select release year</string>
     <string name="movingDataFiles">Moving data files</string>
-    <string name="movingDataFilesDescription">Mizuu will start shortly. This may take a few minutes…</string>
+    <string name="movingDataFilesDescription">NMJManager will start shortly. This may take a few minutes…</string>
     <string name="social">Social</string>
     <string name="syncTvShows">Synchronizing TV shows with Trakt</string>
     <string name="syncMovies">Synchronizing movies with Trakt</string>
@@ -356,8 +356,8 @@
     <string name="dataSourceOfShowRatings">Set the data source of TV show ratings. Defaults to TheTVDb if the selected source is unavailable.</string>
     <string name="syncLibraries">Synchronize libraries</string>
     <string name="installed_media_apps">Media apps</string>
-    <string name="searchMoviesFromMizuu">Search movies from Mizuu</string>
-    <string name="searchTvShowsFromMizuu">Search TV shows from Mizuu</string>
+    <string name="searchMoviesFromNMJManager">Search movies from NMJManager</string>
+    <string name="searchTvShowsFromNMJManager">Search TV shows from NMJManager</string>
     <string name="tvShowsWithUnwatchedEpisodes">Unwatched shows</string>
     <string name="loading_movie_parts">Loading movie parts</string>
     <string name="few_moments">This may take a few moments…</string>
@@ -464,6 +464,10 @@
     <string name="no_actors">No actors found!</string>
     <string name="no_actors_description">"It seems like there aren't any actors…"</string>
     <string name="release_year">Release year</string>
+    <string name="index">Index</string>
+    <string name="user_rating">User rating</string>
+    <string name="video_resolution">Video resolution</string>
+    <string name="others">Others</string>
     <string name="identifying_movie">Identifying movie…</string>
     <string name="remove_selected_seasons">Remove selected seasons</string>
     <string name="remove_selected_episodes">Remove selected episodes</string>
@@ -505,6 +509,8 @@
     <string name="no_unwatched_movies_description">Good job! Check out the <b>Online Movies</b> section to discover new movies.</string>
     <string name="no_movie_collections">No movie collections</string>
     <string name="no_movie_collections_description">It happens to the best of us…</string>
+    <string name="no_movie_lists">No movie lists</string>
+    <string name="no_movie_lists_description">It happens to the best of us…</string>
     <string name="no_tv_shows">No TV shows</string>
     <string name="no_tv_shows_description">Select <b>Update library</b> from the menu to add TV shows.</string>
     <string name="no_tv_shows_description_tablet">Select the <b>Update icon</b> from the menu to add TV shows.</string>
